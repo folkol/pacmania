@@ -1,0 +1,7 @@
+Build with:
+-----------
+ * javac src/PoC.java
+
+Run with:
+---------
+ * java -cp src PoC
